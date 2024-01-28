@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CUsers_005CPublic_005CPrivate_0020Internal_005CZ04_005CRawRepo_002DHub_005CDataSourceLib_005CReadSimpleDidsTmpl_005CReadSimplePecuDidsTmpl_005CDsReference_005CCoreLib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=D_003A_005CUsers_005CPublic_005CPrivate_0020Internal_005CZ04_005CRawRepo_002DHub_005CDataSourceLib_005CR_005CReadSimpleDidsTmpl_005CDsRef_005CCoreLib_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\ReadSimpleDidsTmpl\ReadSimplePecuDidsTmpl\DsReference\CoreLib.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	</wpf:ResourceDictionary>

@@ -1,0 +1,318 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LibFromExcelToDT/1.0.0": {
+        "dependencies": {
+          "DotNetCore.NPOI": "1.2.3",
+          "Microsoft.Office.Interop.Excel": "14.0.0.1",
+          "System.Data.SqlClient": "4.8.0"
+        },
+        "runtime": {
+          "LibFromExcelToDT.dll": {}
+        }
+      },
+      "DotNetCore.NPOI/1.2.3": {
+        "dependencies": {
+          "DotNetCore.NPOI.Core": "1.2.3",
+          "DotNetCore.NPOI.OpenXml4Net": "1.2.3",
+          "DotNetCore.NPOI.OpenXmlFormats": "1.2.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.OOXML.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "DotNetCore.NPOI.Core/1.2.3": {
+        "dependencies": {
+          "SharpZipLib": "1.2.0",
+          "System.Drawing.Common": "4.5.0",
+          "System.Text.Encoding.CodePages": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "DotNetCore.NPOI.OpenXml4Net/1.2.3": {
+        "dependencies": {
+          "DotNetCore.NPOI.Core": "1.2.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.OpenXml4Net.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "DotNetCore.NPOI.OpenXmlFormats/1.2.3": {
+        "dependencies": {
+          "DotNetCore.NPOI.OpenXml4Net": "1.2.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/NPOI.OpenXmlFormats.dll": {
+            "assemblyVersion": "1.2.3.0",
+            "fileVersion": "1.2.3.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.Office.Interop.Excel/14.0.0.1": {
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.4756.1000"
+          }
+        }
+      },
+      "Microsoft.Win32.Registry/4.7.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "Microsoft.Win32.SystemEvents/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0"
+        }
+      },
+      "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+        "dependencies": {
+          "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x86.runtime.native.System.Data.SqlClient.sni": "4.4.0"
+        }
+      },
+      "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/sni.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/sni.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x86/native/sni.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "SharpZipLib/1.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/ICSharpCode.SharpZipLib.dll": {
+            "assemblyVersion": "1.2.0.246",
+            "fileVersion": "1.2.0.246"
+          }
+        }
+      },
+      "System.Data.SqlClient/4.8.0": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0",
+          "runtime.native.System.Data.SqlClient.sni": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "assemblyVersion": "4.6.1.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.0",
+            "fileVersion": "4.700.19.56404"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "System.Drawing.Common/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "Microsoft.Win32.SystemEvents": "4.5.0"
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {},
+      "System.Security.AccessControl/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "System.Security.Principal.Windows/4.7.0": {},
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibFromExcelToDT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetCore.NPOI/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-agXbYDkOvovMYBNqTcRAr6jrTtUXGYzVNdS9Yxy4PDZa8tBQiIeAD+54/Jdsc+3/Mln1L1Yj+SciO1TYwljcdQ==",
+      "path": "dotnetcore.npoi/1.2.3",
+      "hashPath": "dotnetcore.npoi.1.2.3.nupkg.sha512"
+    },
+    "DotNetCore.NPOI.Core/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2OgRNy4OpVOIwnkU8KPJs6itTE2xFpIFkFmci/iAnea/ZPTzQJrmuNPVKlfdn1csOI8ecFWES8Tk2ZmRSJjl5w==",
+      "path": "dotnetcore.npoi.core/1.2.3",
+      "hashPath": "dotnetcore.npoi.core.1.2.3.nupkg.sha512"
+    },
+    "DotNetCore.NPOI.OpenXml4Net/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gELhZln7TuLn2he3r0mx1qnuPLjEgTW5z8RTFnEexSQ+r1smDqSSryXNEhwUvj1beBUxTjKq2RrwkrWwLgtScA==",
+      "path": "dotnetcore.npoi.openxml4net/1.2.3",
+      "hashPath": "dotnetcore.npoi.openxml4net.1.2.3.nupkg.sha512"
+    },
+    "DotNetCore.NPOI.OpenXmlFormats/1.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3v0cJA+4rclcoW+hVuU4oYu1wNYv/jEIqQghLDMHqlviyOVxnuruAUDvsgENjiZM0iWFhkK0N/ZsXvH+qGvObw==",
+      "path": "dotnetcore.npoi.openxmlformats/1.2.3",
+      "hashPath": "dotnetcore.npoi.openxmlformats.1.2.3.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.Office.Interop.Excel/14.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FBSpI2VIFRIomWvR2gniHwfhAYKEBb3ziS4aszqzENbKYOWibjqANFTNiv8V/sUQ1paln54WkkuvGm3Hsrd3WQ==",
+      "path": "microsoft.office.interop.excel/14.0.0.1",
+      "hashPath": "microsoft.office.interop.excel.14.0.0.1.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
+      "path": "microsoft.win32.registry/4.7.0",
+      "hashPath": "microsoft.win32.registry.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LuI1oG+24TUj1ZRQQjM5Ew73BKnZE5NZ/7eAdh1o8ST5dPhUnJvIkiIn2re3MwnkRy6ELRnvEbBxHP8uALKhJw==",
+      "path": "microsoft.win32.systemevents/4.5.0",
+      "hashPath": "microsoft.win32.systemevents.4.5.0.nupkg.sha512"
+    },
+    "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9kyFSIdN3T0qjDQ2R0HRXYIhS3l5psBzQi6qqhdLz+SzFyEy4sVxNOke+yyYv8Cu8rPER12c3RDjLT8wF3WBYQ==",
+      "path": "runtime.native.system.data.sqlclient.sni/4.7.0",
+      "hashPath": "runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512"
+    },
+    "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LbrynESTp3bm5O/+jGL8v0Qg5SJlTV08lpIpFesXjF6uGNMWqFnUQbYBJwZTeua6E/Y7FIM1C54Ey1btLWupdg==",
+      "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-38ugOfkYJqJoX9g6EYRlZB5U2ZJH51UP8ptxZgdpS07FgOEToV+lS11ouNK2PM12Pr6X/PpT5jK82G3DwH/SxQ==",
+      "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
+      "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "SharpZipLib/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zvWa/L02JHNatdtjya6Swpudb2YEHaOLHL1eRrqpjm71iGRNUNONO5adUF/9CHbSJbzhELW1UoH4NGy7n7+3bQ==",
+      "path": "sharpziplib/1.2.0",
+      "hashPath": "sharpziplib.1.2.0.nupkg.sha512"
+    },
+    "System.Data.SqlClient/4.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xsSRvrPbeXgD6rAqFGw1FZsMLaoDVwzgflHig8OLypDpiyb4XISChy2XOutoNsQIkBP9SJ4nSvhd8uStDU7AiA==",
+      "path": "system.data.sqlclient/4.8.0",
+      "hashPath": "system.data.sqlclient.4.8.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AiJFxxVPdeITstiRS5aAu8+8Dpf5NawTMoapZ53Gfirml24p7HIfhjmCRxdXnmmf3IUA3AX3CcW7G73CjWxW/Q==",
+      "path": "system.drawing.common/4.5.0",
+      "hashPath": "system.drawing.common.4.5.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YrzNWduCDHhUaSRBxHxL11UkM2fD6y8hITHis4/LbQZ6vj3vdRjoH3IoPWWC9uDXK2wHIqn+b5gv1Np/VKyM1g==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JECvTt5aFF3WT3gHpfofL2MNNP6v84sxtXxpqhLBCcDRzqsPBmHhQ6shv4DwwN2tRlzsUxtb3G9M3763rbXKDg==",
+      "path": "system.security.accesscontrol/4.7.0",
+      "hashPath": "system.security.accesscontrol.4.7.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
+      "path": "system.security.principal.windows/4.7.0",
+      "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S0wEUiKcLvRlkFUXca8uio1UQ5bYQzYgOmOKtCqaBQC3GR9AJjh43otcM32IGsAyvadFTaAMw9Irm6dS4Evfng==",
+      "path": "system.text.encoding.codepages/4.5.0",
+      "hashPath": "system.text.encoding.codepages.4.5.0.nupkg.sha512"
+    }
+  }
+}

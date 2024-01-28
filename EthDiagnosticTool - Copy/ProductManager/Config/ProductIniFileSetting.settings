@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EthDiagnosticTool.ProductManager.Config" GeneratedClassName="ProductIniFileSetting">
+  <Profiles />
+  <Settings>
+    <Setting Name="SectionName_UDS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">UDS</Value>
+    </Setting>
+    <Setting Name="SectionKeyName_UDS_diagnosticLayerParamsFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">diagnosticLayerParamsFile</Value>
+    </Setting>
+    <Setting Name="SectionKeyValue_UDS_diagnosticLayerParamsFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">diagnosticLayerParams.json</Value>
+    </Setting>
+    <Setting Name="ProductIniFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">product.ini</Value>
+    </Setting>
+    <Setting Name="SectionKeyName_UDS_transportLayerParamsFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">transportLayerParamsFile</Value>
+    </Setting>
+    <Setting Name="SectionKeyValue_UDS_transportLayerParamsFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">transportLayerParams.json</Value>
+    </Setting>
+    <Setting Name="SectionKeyName_UDS_readDidButtonsConfigFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">readDidButtonsConfigFile</Value>
+    </Setting>
+    <Setting Name="SectionKeyValue_UDS_readDidButtonsConfigFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">readDidButtonsConfig.csv</Value>
+    </Setting>
+    <Setting Name="SectionKeyName_UDS_writeDidButtonsConfigFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">writeDidButtonsConfigFile</Value>
+    </Setting>
+    <Setting Name="SectionKeyValue_UDS_writeDidButtonsConfigFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">writeDidButtonsConfigFile.csv</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

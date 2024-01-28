@@ -1,0 +1,13 @@
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\obj\Debug\UnitTestFrameJan28.csproj.CoreCompileInputs.cache
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\bin\Debug\UnitTestFrameJan28.dll
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\bin\Debug\UnitTestFrameJan28.pdb
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\obj\Debug\UnitTestFrameJan28.csproj.CopyComplete
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\obj\Debug\UnitTestFrameJan28.dll
+D:\Code2023(172.65.251.78)\Winform\UnitTestFrameJan28\obj\Debug\UnitTestFrameJan28.pdb

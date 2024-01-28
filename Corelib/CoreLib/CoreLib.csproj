@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="DS\DIDSGROUP\DIDS\" />
+      <Folder Include="Handler\SystemFileAsync\" />
+      <Folder Include="Handler\SystemFile\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="XElemSelector">
+        <HintPath>DynamicLibrary\Ref\XElemSelector.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

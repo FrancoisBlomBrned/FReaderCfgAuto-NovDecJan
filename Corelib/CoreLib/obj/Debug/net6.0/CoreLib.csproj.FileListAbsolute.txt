@@ -1,0 +1,15 @@
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\bin\Debug\net6.0\CoreLib.deps.json
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\bin\Debug\net6.0\CoreLib.dll
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\bin\Debug\net6.0\CoreLib.pdb
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\obj\Debug\net6.0\CoreLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\obj\Debug\net6.0\CoreLib.AssemblyInfoInputs.cache
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\obj\Debug\net6.0\CoreLib.AssemblyInfo.cs
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\obj\Debug\net6.0\CoreLib.csproj.CoreCompileInputs.cache
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\obj\Debug\net6.0\CoreLib.dll
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\obj\Debug\net6.0\refint\CoreLib.dll
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\obj\Debug\net6.0\CoreLib.pdb
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\obj\Debug\net6.0\ref\CoreLib.dll
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\bin\Debug\net6.0\XElemSelector.dll
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\bin\Debug\net6.0\XElemSelector.pdb
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\obj\Debug\net6.0\CoreLib.csproj.AssemblyReference.cache
+D:\Users\Public\Private Internal\Z04\RawRepo-Hub\DataSourceLib\CoreLib\Corelib\CoreLib\obj\Debug\net6.0\CoreLib.csproj.CopyComplete

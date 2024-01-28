@@ -1,0 +1,38 @@
+﻿Name,DID,Value,Session,SecurityLevel,Mapping
+Bootloader SW Version,0xD104,,0x01,0x00,BootloaderSWVersion
+Supplier Software Version,0xF195,,0x01,0x00,SupplierSoftwareVersion
+Supplier Software Version for CAM_APP,0xF196,,0x01,0x00,SupplierSoftwareVersionForCAM_APP
+Supplier Software Version for USS_APP,0xF198,,0x01,0x00,SupplierSoftwareVersionForUSS_APP
+Supplier Software Version for Fusion_APP,0xF197,,0x01,0X00,SupplierSoftwareVersionForFusion_APP
+PCB Serial Number,0xFE10,,0x01,0x00,PCBSerialNumber
+ECU Serial Number,0xF18C,,0x01,0x00,ECUSerialNumber
+ECU/Component accurate tracing code,0xD0B4,,0x01,0x00,ECUComponentAccurateTracingCode
+ECU Delivery Assembly Part Number,0xF1AB,,0x01,0x00,ECUDeliveryAssemblyPartNumber
+System Supplier Identifier,0xF18A,,0x01,0x00,SystemSupplierIdentifier
+ECU Software Part Number,0xF1AE,,0x01,0x00,EcuSoftwarePartNumber
+Supplier Software Version For ForZF Algo,0xF19A,,0x01,0x00,SupplierSoftwareVersionForForZFAlgo
+SupplierSoftwareVersionForForKANKAN,0xF199,,0x01,0x00,SupplierSoftwareVersionForForKANKAN
+Supplier Calibration Software Version,0xD103,,0x01,0x00,SupplierCalibrationSoftwareVersion
+Read Heater Current,0xFD18,,0x01,0x00,ReadHeaterCurrent
+Read Function Status,0xFE13,,0x01,0x00,ReadFunctionStatus
+Supplier_Software_Version_for_USS_APP,0xF198,,0x01,0x00,CDDFILE_Supplier_Software_Version_for_USS_APP
+System_Temperature,0xFD16,,0x01,0x00,CDDFILE_System_Temperature
+Supplier_Software_Version,0xF195,,0x01,0x00,CDDFILE_Supplier_Software_Version
+Supplier_Bootloader_Software_Version,0xD104,,0x01,0x00,CDDFILE_Supplier_Bootloader_Software_Version
+Heater_Current,0xFD18,,0x01,0x00,CDDFILE_Heater_Current
+ECU_Software_Part_Number_Geely,0xF1AE,,0x01,0x00,CDDFILE_ECU_Software_Part_Number_Geely
+Supplier_Software_Version_for_Fusion_APP,0xF197,,0x01,0x00,CDDFILE_Supplier_Software_Version_for_Fusion_APP
+ECU_Delivery_Assembly_Part_Number_Geely,0xF1AB,,0x01,0x00,CDDFILE_ECU_Delivery_Assembly_Part_Number_Geely
+TDA4_WKUP_Sensor_Register_Readout,0xFE02,,0x01,0x00,CDDFILE_TDA4_WKUP_Sensor_Register_Readout
+TDA4_TEMPSENS_Register_Readout,0xFE01,,0x01,0x00,CDDFILE_TDA4_TEMPSENS_Register_Readout
+System_Voltage,0xFD20,,0x01,0x00,CDDFILE_System_Voltage
+TDA4_MCU_Memory_Register_Readout,0xFE05,,0x01,0x00,CDDFILE_TDA4_MCU_Memory_Register_Readout
+TDA4_Clocking_Register_Readout,0xFE04,,0x01,0x00,CDDFILE_TDA4_Clocking_Register_Readout
+ECU_Serial_Number,0xF18C,,0x01,0x00,CDDFILE_ECU_Serial_Number
+Supplier_Software_Version_for_CAM_APP,0xF196,,0x01,0x00,CDDFILE_Supplier_Software_Version_for_CAM_APP
+ECU_Component_accurate_tracing_code,0xD0B4,,0x01,0x00,CDDFILE_ECU_Component_accurate_tracing_code
+Security_Audit_Log_Diagnostic_Events,0xC00B,,0x01,0x00,CDDFILE_Security_Audit_Log_Diagnostic_Events
+PCB_Serial_Number,0xFE10,,0x01,0x00,CDDFILE_PCB_Serial_Number
+ECU_Delivery_Assembly_Part_Number,0xF12B,,0x01,0x00,CDDFILE_ECU_Delivery_Assembly_Part_Number
+System_Supplier_Identifier,0xF18A,,0x01,0x00,CDDFILE_System_Supplier_Identifier
+

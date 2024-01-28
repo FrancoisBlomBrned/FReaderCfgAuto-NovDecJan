@@ -1,0 +1,36 @@
+﻿Name,DID,Value,Session,SecurityLevel,Mapping
+Bootloader SW Version,0xD104,,0x01,0x00,BootloaderSWVersion
+Supplier Software Version,0xF195,,0x01,0x00,SupplierSoftwareVersion
+Supplier Software Version for CAM_APP,0xF196,,0x01,0x00,SupplierSoftwareVersionForCAM_APP
+Supplier Software Version for USS_APP,0xF198,,0x01,0x00,SupplierSoftwareVersionForUSS_APP
+Supplier Software Version for Fusion_APP,0xF197,,0x01,0X00,SupplierSoftwareVersionForFusion_APP
+PCB Serial Number,0xFE10,,0x01,0x00,PCBSerialNumber
+ECU Serial Number,0xF18C,,0x01,0x00,ECUSerialNumber
+ECU/Component accurate tracing code,0xD0B4,,0x01,0x00,ECUComponentAccurateTracingCode
+ECU Delivery Assembly Part Number,0xF1AB,,0x01,0x00,ECUDeliveryAssemblyPartNumber
+System Supplier Identifier,0xF18A,,0x01,0x00,SystemSupplierIdentifier
+ECU Software Part Number,0xF1AE,,0x01,0x00,EcuSoftwarePartNumber
+Supplier Software Version For ForZF Algo,0xF19A,,0x01,0x00,SupplierSoftwareVersionForForZFAlgo
+SupplierSoftwareVersionForForKANKAN,0xF199,,0x01,0x00,SupplierSoftwareVersionForForKANKAN
+Supplier Calibration Software Version,0xD103,,0x01,0x00,SupplierCalibrationSoftwareVersion
+Read Heater Current,0xFD18,,0x01,0x00,ReadHeaterCurrent
+Read Function Status,0xFE13,,0x01,0x00,ReadFunctionStatus
+System_Voltage,0xFD20,,0x01,0x00,CDDFILE_System_Voltage
+Read_Function_Status,0xFE13,,0x01,0x00,CDDFILE_Read_Function_Status
+Heater_Current,0xFD18,,0x01,0x00,CDDFILE_Heater_Current
+System_Temperature,0xFD16,,0x01,0x00,CDDFILE_System_Temperature
+Supplier_Calibration_Software_Version,0xD103,,0x01,0x00,CDDFILE_Supplier_Calibration_Software_Version
+Supplier_Software_Version_for_KANKAN,0xF199,,0x01,0x00,CDDFILE_Supplier_Software_Version_for_KANKAN
+ECU_Core_Assembly_Part_Number,0xF12A,,0x01,0x00,CDDFILE_ECU_Core_Assembly_Part_Number
+ECU_Serial_Number,0xF18C,,0x01,0x00,CDDFILE_ECU_Serial_Number
+ECU_Software_Part_Number_Geely,0xF1AE,,0x01,0x00,CDDFILE_ECU_Software_Part_Number_Geely
+System_Supplier_Identifier,0xF18A,,0x01,0x00,CDDFILE_System_Supplier_Identifier
+ECU_Delivery_Assembly_Part_Number_Geely,0xF1AB,,0x01,0x00,CDDFILE_ECU_Delivery_Assembly_Part_Number_Geely
+ECU_Component_accurate_tracing_code,0xD0B4,,0x01,0x00,CDDFILE_ECU_Component_accurate_tracing_code
+PCB_Serial_Number,0xFE10,,0x01,0x00,CDDFILE_PCB_Serial_Number
+Supplier_Software_Version_for_Fusion_APP,0xF197,,0x01,0x00,CDDFILE_Supplier_Software_Version_for_Fusion_APP
+Supplier_Software_Version_for_CAM_APP,0xF196,,0x01,0x00,CDDFILE_Supplier_Software_Version_for_CAM_APP
+Supplier_Software_Version,0xF195,,0x01,0x00,CDDFILE_Supplier_Software_Version
+Supplier_Software_Version_for_USS_APP,0xF198,,0x01,0x00,CDDFILE_Supplier_Software_Version_for_USS_APP
+Supplier_Software_Version_for_ZF_Algo,0xF19A,,0x01,0x00,CDDFILE_Supplier_Software_Version_for_ZF_Algo
+
